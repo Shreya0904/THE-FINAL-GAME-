@@ -1,0 +1,21 @@
+
+
+body
+{
+  background: #310404 url(https://i.ytimg.com/vi/wOvQAhzWCrM/maxresdefault.jpg) no-repeat center center fixed; 
+  color:white;
+  text-align:center;
+  background-color:cyan;
+}
+
+img
+{
+  height:300px;
+  width:200px;
+}
+
+body
+{
+  text-align:center;
+  background-color:cyan;
+}
